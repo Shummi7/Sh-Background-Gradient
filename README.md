@@ -1,2 +1,2 @@
 #Hello Friends
-#this is my fitst git 
+#this is my first git 
