@@ -32,7 +32,7 @@ var button2=document.getElementById("button2");
 //To set color in colorpicker 
 	function setgradient(){
 	body.style.background= "linear-gradient(to right, " + 
-		color1.value+ 
+		color1.value+  
 		", " +
 		color2.value+
 		") ";
